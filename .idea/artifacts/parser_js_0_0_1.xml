@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="parser-js-0.0.1">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="parser-js-0.0.1.jar">
+      <element id="module-output" name="io.github.sofiapl.parser.jsMain" />
+    </root>
+  </artifact>
+</component>
